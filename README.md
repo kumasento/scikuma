@@ -1,5 +1,6 @@
 
 # Kuma Science
+![Kumamon](http://www.oyatsubreak.com/wp-content/uploads/2013/09/20130222_184738.gif)
 
 Some scientific research toys
 
